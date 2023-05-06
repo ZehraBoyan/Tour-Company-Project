@@ -29,5 +29,7 @@ This application was built using the following technologies:
 - MsExcel
 
 ### Author
+---
 Zehra Boyan Afsin - Project Developer
+
 Kemal Yetim - Project Developer
